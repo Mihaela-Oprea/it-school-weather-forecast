@@ -4,7 +4,7 @@ This **weather application** provides information about the current weather and 
 
 ## 🌍 Demo
 
-🌐 [Visit the website on Netlify](https://it-school-weather-238756823.netlify.app/)
+🌐 [Visit the website on Netlify](https://it-school-weather-forecast.netlify.app/)
 
 ---
 
