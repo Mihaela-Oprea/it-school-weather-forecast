@@ -1,6 +1,6 @@
 # ⛅ Weather App
 
-This **weather application** provides information about the current weather and a 5-day forecast for various cities in Romania. It is built using HTML, CSS, and JavaScript, with data retrieved from the free OpenWeatherMap API.
+This weather application, **developed during the IT School Course**, provides information about the current weather and a 5-day forecast for various cities in Romania. It is built using **HTML, CSS, and JavaScript**, with data retrieved from the free OpenWeatherMap API.
 
 ## 🌍 Demo
 
